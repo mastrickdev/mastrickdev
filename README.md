@@ -1,7 +1,9 @@
 ## Hi! I'm Marco! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
-![Marco GitHub Stats](https://github-readme-stats.vercel.app/api?username=mastrickdev&show_icons=true&hide_title=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastrickdev&layout=compact&title_color=Ffffff&theme=tokyonight)
+<div style="display:flex; justify-content:space-beetwen;">
+   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=mastrickdev&hide=contribs&show_icons=true&hide_title=true&theme=tokyonight">
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastrickdev&layout=compact&title_color=Ffffff&theme=tokyonight">
+</div>
 
 ## Some Languages
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white

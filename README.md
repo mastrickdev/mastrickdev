@@ -1,7 +1,7 @@
 ## Hi! I'm Marco! 👋
 
 ![Marco GitHub Stats](https://github-readme-stats.vercel.app/api?username=mastrickdev&show_icons=true&hide_title=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastrickdev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastrickdev&layout=compact&theme=dark)
 
 ## Some Languages
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white
